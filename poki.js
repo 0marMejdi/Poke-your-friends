@@ -63,9 +63,7 @@ function pokeFriend(friendFullName){
     
     
 }
-pokeFriend("Mehdi Fkih");
-pokeFriend("Ala Eddine Achach");
-pokeFriend("Naoures Bzeouich");
+pokeFriend("Omar Mejdi");
 
 setInterval(()=>{location.reload()},120000)
 
